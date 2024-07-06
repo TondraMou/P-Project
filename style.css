@@ -184,6 +184,9 @@
     justify-content: center;
     align-items: center;
 }
+.right-r{
+    width: 100%;
+}
 
  .right h1 {
     color: rgb(16, 16, 16);
@@ -222,4 +225,14 @@ border-bottom: 1px solid rgba(16, 16, 16, 0.2);
 border-top: 1px solid rgba(16, 16, 16, 0.2);
 padding: 23px 8px 23px 8px;
 width: 100%;
+}
+.img-footer{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 24px;
+}
+.img-footer img{
+    width: 30px;
+    height: 30px;
 }
