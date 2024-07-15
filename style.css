@@ -242,6 +242,7 @@ width: 100%;
     .card-container{
         display: flex;
         flex-direction: column;
+        justify-content: center;
     }
     #footer{
         flex-direction: column;
